@@ -2,7 +2,7 @@ astroid==2.4.1
 autopep8==1.7.0
 certifi==2022.6.15
 chardet==3.0.4
-crccheck==0.6
+crccheck==1.1
 idna==2.9
 isort==4.3.21
 lazy-object-proxy==1.4.3
