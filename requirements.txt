@@ -1,5 +1,5 @@
 astroid==2.4.1
-autopep8==1.5.2
+autopep8==1.7.0
 certifi==2022.6.15
 chardet==3.0.4
 crccheck==0.6
